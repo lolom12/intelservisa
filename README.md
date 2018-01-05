@@ -1,2 +1,0 @@
-# intelservisa
-validacion
